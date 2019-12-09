@@ -1,0 +1,7 @@
+=== antora-demo
+
+This is a demo how to build github pages documentation with Antora and Travis.
+Features separate documentation for master branch, develop branch and git tags.
+
+The result can be seen here: https://dg0lden.github.io/antora-demo
+
